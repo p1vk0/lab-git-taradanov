@@ -23,3 +23,16 @@
    - JavaScript
    - Git
    ```
+  ```markdown
+   ## Установка
+
+   1. Клонировать репозиторий:
+  	```bash
+  	git clone https://github.com/<username>/lab-git-taradanov.git
+  	```
+   2. Перейти в папку проекта:
+  	```bash
+  	cd lab-git-taradanov
+  	```
+   3. Открыть файл `index.html` в браузере.
+   ```
